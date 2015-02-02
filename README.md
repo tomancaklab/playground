@@ -30,4 +30,8 @@ Hello world! :-)
 If somebody changes the file I changed and I have to merge:
 ![my gif!](http://tclhost.com/IH5ArXF.gif)
 
+
 More Cake will make you Fatter!
+
+Hey, there comes the awesome Pavel!!! once he stepped in, he showed all the goodies he has!!
+
