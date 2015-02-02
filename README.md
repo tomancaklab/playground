@@ -1,5 +1,5 @@
 # Git(hub) for the whole lab! Use all the features!
-[!mccoy approves](http://www.reactiongifs.com/r/2013/08/dr-mccoy-and-captain-kirk-approve.gif)
+![mccoy approves](http://www.reactiongifs.com/r/2013/08/dr-mccoy-and-captain-kirk-approve.gif)
 
 # Git playground for the Tomancak lab rats
 
