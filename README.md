@@ -14,10 +14,15 @@ This developer hopes that the workshop is useful.
 Happy birthday SWen
 
 From Suckers the Christophererererer!
+Suckers!
+
+eat less chicken - eat more cake!
 
 I like this workshop!
 
 Cake will make you fat! - ENJOY! :P
 
 Béla is waiting for his mommy… :(
+Wen iSwen
 
+Hello world! :-)
