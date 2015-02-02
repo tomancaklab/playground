@@ -13,7 +13,7 @@ This developer hopes that the workshop is useful.
 
 Happy birthday SWen
 
-From Suckers the Christophererererer!
+censored!!
 Suckers!
 
 eat less chicken - eat more cake!
