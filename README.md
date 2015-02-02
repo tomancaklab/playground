@@ -12,8 +12,10 @@ I am the boss with a great towel!
 This developer hopes that the workshop is useful.
 
 
-Happy birthday Sven
-Happy birthday Sven
+Happy birthday SWen
+Happy birthday SWen
+
+Suckers!
 
 =======
 
