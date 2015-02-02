@@ -13,6 +13,12 @@ This developer hopes that the workshop is useful
 
 Yupii
 
+# Mette additions
+
+Sunny winter day :)
+
+Happy birthday SWen
+
 Happy birthday SWen
 
 From Suckers the Christophererererer!
