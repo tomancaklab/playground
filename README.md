@@ -16,6 +16,12 @@ Poor Mette
 
 This developer hopes that the workshop is useful.
 
+# Mette additions
+
+Sunny winter day :)
+
+Happy birthday SWen
+
 Happy birthday SWen
 
 censored!!
