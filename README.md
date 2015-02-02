@@ -11,8 +11,6 @@ I am the boss with a great towel!
 
 This developer hopes that the workshop is useful.
 
-I like this workshop!
-
-Window users are discriminated
-
 Cake will make you fat! - ENJOY! :P
+
+Béla is waiting for his mommy… :(
