@@ -9,6 +9,11 @@ I am the boss with a great towel! I am not here, but don’t worry cause I am th
 
 # Johannes’ additions
 
+
+#For Mette:
+
+Poor Mette
+
 This developer hopes that the workshop is useful.
 
 Happy birthday SWen
@@ -37,3 +42,4 @@ Hey, there comes the awesome Pavel!!! once he stepped in, he showed all the good
 
 
 How you Doin’  … :D
+
