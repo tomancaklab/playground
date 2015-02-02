@@ -5,16 +5,22 @@ can be messy and/or recreated from scratch.
 
 # PAvel’s additions
 
-I am the boss.
+I am the boss with a great towel!
 
 # Johannes’ additions
 
 This developer hopes that the workshop is useful.
 
+Happy birthday Sven
+Happy birthday Sven
 
-Happy birthday Sven
-Happy birthday Sven
+=======
 
 Window users are discriminated
->>>>>>> 14ad4dead04bc145129267b8e0672d8515033faa
+
+=======
+
+Cake will make you fat! - ENJOY! :P
+=======
+Window users are discriminated
 
