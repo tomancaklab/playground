@@ -17,6 +17,8 @@ Happy birthday SWen
 
 Suckers!
 
+eat less chicken - eat more cake!
+
 =======
 
 Window users are discriminated
