@@ -1,4 +1,4 @@
-﻿# Git playground for the Tomancak lab rats
+# Git playground for the Tomancak lab rats
 
 This repository exists purely to allow playing around with a repository that
 can be messy and/or recreated from scratch.
@@ -22,5 +22,13 @@ Window users are discriminated
 
 Cake will make you fat! - ENJOY! :P
 =======
+
 Window users are discriminated
+
+=======
+I like this workshop!
+
+Window users are discriminated
+
+Cake will make you fat! - ENJOY! :P
 
