@@ -1,4 +1,4 @@
-# Git playground for the Tomancak lab rats
+﻿# Git playground for the Tomancak lab rats
 
 This repository exists purely to allow playing around with a repository that
 can be messy and/or recreated from scratch.
@@ -11,6 +11,10 @@ I am the boss.
 
 This developer hopes that the workshop is useful.
 
+
 Happy birthday Sven
 Happy birthday Sven
+
+Window users are discriminated
+>>>>>>> 14ad4dead04bc145129267b8e0672d8515033faa
 
