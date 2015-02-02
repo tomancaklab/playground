@@ -1,3 +1,6 @@
+# Git(hub) for the whole lab! Use all the features!
+[!mccoy approves](http://www.reactiongifs.com/r/2013/08/dr-mccoy-and-captain-kirk-approve.gif)
+
 # Git playground for the Tomancak lab rats
 
 This repository exists purely to allow playing around with a repository that
