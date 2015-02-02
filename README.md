@@ -10,3 +10,7 @@ I am the boss.
 # Johannes’ additions
 
 This developer hopes that the workshop is useful.
+
+# Mette additions
+
+Sunny winter day :)
