@@ -1,3 +1,6 @@
+# Git(hub) for the whole lab! Use all the features!
+![mccoy approves](http://www.reactiongifs.com/r/2013/08/dr-mccoy-and-captain-kirk-approve.gif)
+
 # Git playground for the Tomancak lab rats
 
 This repository exists purely to allow playing around with a repository that
@@ -9,7 +12,16 @@ I am the boss with a great towel! I am not here, but don’t worry cause I am th
 
 # Johannes’ additions
 
+
+#For Mette:
+
+Poor Mette
+
+This developer hopes that the workshop is useful.
+
 This developer hopes that the workshop is useful
+
+#helena addition: the cake is savory!!! 
 
 Yupii
 
@@ -36,7 +48,10 @@ Happy birthday SWen
 Happy birthday SWen
 Happy birthday SWen
 
-From Suckers the Christophererererer!
+censored!!
+Suckers!
+=======
+
 
 eat less chicken - eat more cake!
 
@@ -59,3 +74,5 @@ Hey, there comes the awesome Pavel!!! once he stepped in, he showed all the good
 
 
 How you Doin’  … :D
+=======
+
