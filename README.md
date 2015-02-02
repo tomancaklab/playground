@@ -18,6 +18,8 @@ This developer hopes that the workshop is useful.
 =======
 This developer hopes that the workshop is useful
 
+#helena addition: the cake is savory!!! 
+=======
 Yupii
 
 # Mette additions
@@ -69,4 +71,5 @@ Hey, there comes the awesome Pavel!!! once he stepped in, he showed all the good
 
 
 How you Doin’  … :D
+=======
 
