@@ -11,6 +11,13 @@ I am the boss with a great towel! I am not here, but don’t worry cause I am th
 
 This developer hopes that the workshop is useful.
 
-Window users are discriminated
+Happy birthday SWen
+
+From Suckers the Christophererererer!
+
+I like this workshop!
 
 Cake will make you fat! - ENJOY! :P
+
+Béla is waiting for his mommy… :(
+
